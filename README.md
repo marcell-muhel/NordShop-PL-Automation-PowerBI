@@ -5,6 +5,7 @@
 
 ## 📌 Executive Summary
 This project demonstrates an end-to-end automated Business Intelligence solution built for a fictional FMCG retail network (NordShop Kft.). The objective was to replace a slow, manual, Excel-based monthly closing process with a dynamic, real-time Profit & Loss (P&L) tracking system.
+Note: While this technical documentation is in English, the Power BI dashboard and its underlying dataset are localized in Hungarian to simulate a realistic domestic corporate environment.
 
 ## 🚨 The Business Pain
 The company operates a complex network of 12 retail stores, 3 depots, a wholesale division, and a central office (approx. 300 employees). Previously, the monthly controlling and P&L closing was a manual, multi-day process. 
